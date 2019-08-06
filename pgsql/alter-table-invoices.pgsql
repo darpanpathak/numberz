@@ -1,0 +1,1 @@
+ALTER TABLE invoices ALTER COLUMN currency TYPE varchar (8)
