@@ -1,1 +1,1 @@
-update invoices SET nextreminderon = '2019-08-06T12:44:00z'
+update invoices SET nextreminderon = now()
